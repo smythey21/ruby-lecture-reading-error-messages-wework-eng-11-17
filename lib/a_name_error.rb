@@ -2,5 +2,3 @@
 
 "top hello_world"
 
-
-load
